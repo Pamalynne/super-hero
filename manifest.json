@@ -1,0 +1,15 @@
+{
+  "name": "Disney Princesses",
+  "short_name": "My Hero's",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#FF1493",
+  "theme_color": "#FF1493",
+  "icons": [
+    {
+      "src": "icon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
